@@ -65,11 +65,9 @@ Follow these steps to clone the repository and run the application locally:
   - `App.css`: Styling for the application.
 
 ## Demo Video
-A walkthrough of the app is provided [here](demo.mp4).
+https://github.com/user-attachments/assets/f5371596-a5c9-4912-ad56-6f20877f37ee
 
-To view the demo video:
-1. Clone the repository.
-2. Open `demo.mp4` in your preferred media player.
+
 
 ## Technical Decisions
 1. **React for UI**: React was chosen for its modularity and ease of creating interactive components.
